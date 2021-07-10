@@ -1,0 +1,39 @@
+{
+  "MarkerLocation": [
+    {
+      "LocationName": "Jakhu Temple",
+      "Lat": "31.1012",
+      "Long": "77.1840"
+    },
+    {
+      "LocationName": "Christ Church",
+      "Lat": "31.1043",
+      "Long": "77.1759"
+    },
+    {
+      "LocationName": "Viceregal Lodge",
+      "Lat": "31.1036",
+      "Long": "77.1424"
+    },
+    {
+      "LocationName": "Mall Road",
+      "Lat": "31.105050215138462",
+      "Long": "77.17257552706072"
+    },
+    {
+      "LocationName": "Local Hill Side Location Naldehra",
+      "Lat": "31.1812",
+      "Long": "77.1859"
+    },
+    {
+      "LocationName": "Local Hill Side Location Kufri",
+      "Lat": "31.0979",
+      "Long": "77.2678"
+    },
+    {
+      "LocationName": "The Ridge",
+      "Lat": "31.104873555209995",
+      "Long": "77.1746927376763"
+    }
+  ]
+}

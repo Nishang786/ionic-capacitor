@@ -1,0 +1,19 @@
+<ion-header [translucent]="true">
+  <ion-toolbar>
+    <ion-title>
+      live location
+    </ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content [fullscreen]="true">
+	<ion-card>
+		<ion-card-content>
+			<div #directionsPanel></div>
+		</ion-card-content>
+	</ion-card>
+  <div id = "map" style = "width:70%;height:80%"></div>
+</ion-content>
+<ion-item *ngFor= "let item of consoledata">
+
+</ion-item>
